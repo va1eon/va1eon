@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://raw.githubusercontent.com/yaronzz/yaronzz/master/res/1.gif" width="400">
-    <h1 style="margin: 0">✌ Hello There</h1>
+    <h1 style="margin: 0">👋 Hello There</h1>
 </div>
 <div>
     <h2 style="margin: 0 0 40px">I'm beginner web developer</h2>
